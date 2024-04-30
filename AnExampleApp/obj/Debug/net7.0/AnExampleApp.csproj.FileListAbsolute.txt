@@ -1,0 +1,14 @@
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.AssemblyInfoInputs.cache
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.AssemblyInfo.cs
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\bin\Debug\net7.0\AnExampleApp.exe
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\bin\Debug\net7.0\AnExampleApp.deps.json
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\bin\Debug\net7.0\AnExampleApp.runtimeconfig.json
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\bin\Debug\net7.0\AnExampleApp.dll
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\bin\Debug\net7.0\AnExampleApp.pdb
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.dll
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\refint\AnExampleApp.dll
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.pdb
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\AnExampleApp.genruntimeconfig.cache
+C:\Users\n0m1z\RiderProjects\AnExampleApp\AnExampleApp\obj\Debug\net7.0\ref\AnExampleApp.dll

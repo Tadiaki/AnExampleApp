@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Zt46LBgMHm+DAYMZFK5SXp87xD42piIzQwm6ZJYDPRgNc99cN0NCCmOxig/sW/MV+bgHpeOOPNgL1mxwc+Jhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n0m1z\\RiderProjects\\AnExampleApp\\AnExampleApp\\AnExampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n0m1z\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\n0m1z\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\n0m1z\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\n0m1z\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
